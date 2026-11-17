@@ -1,0 +1,480 @@
+What color is the sky on a clear day?
+Blue
+Green
+Red
+Purple
+0
+Which animal says "meow"?
+Cat
+Dog
+Horse
+Frog
+1
+Which fruit is typically yellow and curved?
+Banana
+Apple
+Strawberry
+Cherry
+2
+Who wrote "To Be or Not To Be" soliloquy?
+William Shakespeare
+Mark Twain
+J.K. Rowling
+Stephen King
+3
+What's the capital of Italy?
+Rome
+Paris
+Berlin
+Madrid
+4
+In which country is the city of Tokyo located?
+Japan
+China
+Brazil
+Spain
+5
+Which gas do plants primarily produce during photosynthesis?
+Oxygen
+Carbon Dioxide
+Helium
+Argon
+6
+What's the distance around a circle called?
+Circumference
+Radius
+Diameter
+Area
+7
+Which element has the atomic number 1?
+Hydrogen
+Helium
+Oxygen
+Carbon
+8
+How many legs does a spider typically have?
+8
+4
+6
+10
+9
+In which art form might you perform a pas de deux?
+Ballet
+Painting
+Sculpture
+Piano
+10
+Who developed the theory of evolution by natural selection?
+Charles Darwin
+Albert Einstein
+Isaac Newton
+Galileo Galilei
+11
+Which language is spoken as a primary language in Brazil?
+Portuguese
+Spanish
+English
+French
+12
+Which mathematical concept represents an undefined amount?
+Infinity
+Pi
+Zero
+One
+13
+Which organ detoxifies chemicals and metabolizes drugs?
+Liver
+Heart
+Lungs
+Brain
+14
+Which ancient wonder was located in the city of Babylon?
+Hanging Gardens
+Statue of Zeus
+Colossus of Rhodes
+Pyramid of Giza
+7
+Which planet has a day longer than its year?
+Venus
+Earth
+Mars
+Jupiter
+10
+What is the smallest bone in the human body?
+Stapes
+Femur
+Humerus
+Tibia
+12
+Which chemical has the formula H2O2?
+Hydrogen Peroxide
+Water
+Salt
+Carbon Dioxide
+11
+Who is the author of the novel "1984"?
+George Orwell
+Aldous Huxley
+F. Scott Fitzgerald
+Charles Dickens
+9
+Which planet is known as the "Ringed Planet"?
+Saturn
+Mars
+Venus
+Mercury
+3
+What is the currency used in the United Kingdom?
+Pound Sterling
+Euro
+Dollar
+Rupee
+2
+Which country is home to the Great Barrier Reef?
+Australia
+USA
+Brazil
+India
+4
+What is the primary ingredient in guacamole?
+Avocado
+Tomato
+Lettuce
+Cucumber
+1
+Which famous detective was created by Arthur Conan Doyle?
+Sherlock Holmes
+Hercule Poirot
+Sam Spade
+Philip Marlowe
+4
+What is the square root of 121?
+11
+12
+10
+13
+5
+Which ocean is the deepest?
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+3
+In what year did the first man land on the moon?
+1969
+1970
+1971
+1968
+6
+Who composed the music for the ballet "Swan Lake"?
+Pyotr Ilyich Tchaikovsky
+Ludwig van Beethoven
+Johann Sebastian Bach
+Wolfgang Amadeus Mozart
+7
+Which country is known for inventing sushi?
+Japan
+China
+Korea
+Thailand
+3
+How many total players are on the field in a standard soccer match?
+22
+20
+24
+18
+4
+What is the chemical symbol for Iron?
+Fe
+Ir
+Io
+In
+6
+Which bird is known to mimic sounds and human voices?
+Parrot
+Penguin
+Peacock
+Pigeon
+5
+What part of the atom has a negative charge?
+Electron
+Proton
+Neutron
+Nucleus
+7
+Which ancient civilization built the pyramids of Giza?
+Egyptians
+Mayans
+Romans
+Greeks
+4
+In what country is the city of Transylvania located?
+Romania
+Germany
+Italy
+France
+8
+Who is the main antagonist in Shakespeare's "Othello"?
+Iago
+Macbeth
+Hamlet
+Antonio
+7
+Which of these elements is a noble gas?
+Argon
+Oxygen
+Hydrogen
+Carbon
+6
+Which artist cut off his own ear?
+Vincent van Gogh
+Pablo Picasso
+Claude Monet
+Salvador Dali
+8
+What is the study of fungi called?
+Mycology
+Botany
+Zoology
+Entomology
+9
+What is the color of grass in most typical landscapes?
+Green
+Blue
+Red
+Yellow
+0
+Which animal is typically associated with the sound "moo"?
+Cow
+Cat
+Dog
+Sheep
+1
+In the story of Cinderella, what does she leave behind at the ball?
+Glass Slipper
+Earring
+Glove
+Necklace
+2
+Which instrument is known for its large size and is typically found in orchestras?
+Double Bass
+Flute
+Trumpet
+Harp
+3
+What is the capital city of Spain?
+Madrid
+Paris
+Lisbon
+Berlin
+4
+Which organ is responsible for pumping blood throughout the body?
+Heart
+Liver
+Lungs
+Brain
+5
+What is the chemical symbol for gold?
+Au
+Ag
+Fe
+Go
+6
+Which country is the largest by land area?
+Russia
+USA
+China
+Brazil
+7
+In which field is the Nobel Prize awarded to Bob Dylan in 2016?
+Literature
+Physics
+Peace
+Medicine
+8
+Which disease is caused by the deficiency of Vitamin C?
+Scurvy
+Rickets
+Night Blindness
+Beriberi
+9
+What ancient city was famously sieged for 10 years in Homer's epics?
+Troy
+Sparta
+Athens
+Rome
+10
+In quantum mechanics, who proposed the uncertainty principle?
+Werner Heisenberg
+Albert Einstein
+Niels Bohr
+Max Planck
+11
+Which Shakespearean play features a character named Desdemona?
+Othello
+Hamlet
+Macbeth
+A Midsummer Night's Dream
+12
+What is the art of making objects by folding paper without using scissors or glue?
+Origami
+Papier-mâché
+Scrapbooking
+Decoupage
+13
+Which famous theorem deals with the sides of a right triangle?
+Pythagoras' Theorem
+Fermat's Last Theorem
+Euler's Formula
+Newton's Law
+14
+Which sea creature has three hearts?
+Octopus
+Shark
+Dolphin
+Whale
+6
+In which country is the wine region Bordeaux located?
+France
+Italy
+Spain
+Germany
+7
+Which scientist is credited with the invention of the first practical telephone?
+Alexander Graham Bell
+Thomas Edison
+Nikola Tesla
+Guglielmo Marconi
+8
+Which musical piece features the "Dies Irae" theme and is about a dream of a witches' sabbath?
+Symphonie Fantastique
+Fur Elise
+Moonlight Sonata
+The Four Seasons
+12
+Which of these is not one of the Seven Wonders of the Ancient World?
+Stonehenge
+Hanging Gardens of Babylon
+Statue of Zeus at Olympia
+Great Pyramid of Giza
+11
+Which animal is known as "Man's best friend"?
+Dog
+Cat
+Bird
+Fish
+0
+Which celestial body does Earth orbit around?
+Sun
+Moon
+Mars
+Venus
+1
+In literature, who is the author of "Pride and Prejudice"?
+Jane Austen
+George Orwell
+Mark Twain
+Leo Tolstoy
+2
+Which country is associated with the dance Tango?
+Argentina
+Russia
+India
+Japan
+3
+What gas is most prevalent in Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Helium
+4
+Which historic event took place on July 20, 1969?
+Moon Landing by Apollo 11
+End of World War II
+Signing of the Declaration of Independence
+Invention of the Internet
+5
+What type of angle is between 90 and 180 degrees?
+Obtuse
+Acute
+Right
+Straight
+6
+Which philosopher wrote "Thus Spoke Zarathustra"?
+Friedrich Nietzsche
+Plato
+Immanuel Kant
+John Locke
+7
+Which layer of the Earth lies just below the crust?
+Mantle
+Core
+Lithosphere
+Mesosphere
+8
+Which artist painted the ceiling of the Sistine Chapel in Vatican City?
+Michelangelo
+Leonardo da Vinci
+Raphael
+Vincent van Gogh
+9
+What ancient writing system used pictures and was utilized in ancient Egypt?
+Hieroglyphics
+Cuneiform
+Alphabet
+Kanji
+10
+In physics, who is known for the photoelectric effect, especially before his theory of relativity?
+Albert Einstein
+Isaac Newton
+Niels Bohr
+James Clerk Maxwell
+11
+Which genetic disorder is characterized by the affected individual having an extra 21st chromosome?
+Down Syndrome
+Huntington's Disease
+Albinism
+Cystic Fibrosis
+12
+What theory in cosmology suggests that the universe has been expanding since its inception?
+Big Bang Theory
+String Theory
+Theory of Relativity
+Steady State Theory
+13
+Which philosopher is famous for his allegory of the cave, suggesting reality as perceived is merely shadows on a wall?
+Plato
+Socrates
+Aristotle
+Descartes
+14
+Which element on the periodic table is represented by the letter K?
+Potassium
+Krypton
+Kettle
+Kilogram
+5
+Which musical composer is known for his Ninth Symphony, which includes the "Ode to Joy"?
+Ludwig van Beethoven
+Johann Sebastian Bach
+Wolfgang Amadeus Mozart
+Franz Schubert
+7
+Which battle in 1815 marked the end of Napoleon's rule as Emperor of the French?
+Battle of Waterloo
+Battle of Trafalgar
+Battle of Hastings
+Battle of Verdun
+9
+In mathematics, what is the term for a number divisible only by 1 and itself?
+Prime Number
+Even Number
+Composite Number
+Fraction
+6
+Which psychologist is known for his theory of psychosexual development stages?
+Sigmund Freud
+Carl Jung
+B.F. Skinner
+John Watson
+8
