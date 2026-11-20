@@ -19,6 +19,7 @@ public class Game implements Serializable {
     QuestionManager qm = new QuestionManager();
     Player player;
     Player savedPlayer = null; //needed if a previous player wants to continue his last game
+    int securedPrize = 0;
 
     public void run() {
         Scanner scanner = new Scanner(System.in);
@@ -37,7 +38,7 @@ public class Game implements Serializable {
                 System.out.println("The data that was stored about your last game:" + savedPlayer.toString());
                 System.out.println("Do you want to continue the saved round from last time(Y/N))");
                 String choice = scanner.nextLine();
-                if (choice.equals("Y")) {
+                if (choice.equalsIgnoreCase("Y")) {
                     player = savedPlayer;
                 } else {
                     player = new Player(name, 0, "0€"); // create new player in order to start new game
@@ -62,9 +63,9 @@ public class Game implements Serializable {
                 System.out.println("You are now at difficulty level " + " " + diffLevel + "!" + "And you have passed " + player.getQuestionsDone() + "question(s)!" + "Your prize right now:" + player.getmoney());
                 securityLevelCheck(player.getQuestionsDone());
             } else {
-                System.out.println("You have passed" + " " + player.getQuestionsDone() + "question(s)!" + "Your prize to take home:" + player.getmoney() + " " + "If you want you can start a new round!!");
+                System.out.println("You have passed" + " " + player.getQuestionsDone() + "question(s)!" + "Your prize to take home:" + securedPrize + " " + "If you want you can start a new round!!");
                 System.out.println("If you want to save the game please enter Y. If not then just enter N ");
-                String save = scanner.nextLine();
+                String save = scanner.nextLine().toUpperCase();
                 if (save.equals("Y")) {
                     saveGame(player);//just if the user want to save the game it will call the methode
                     System.out.println("All right, your game is saved now. You can continue whenever you want to");
@@ -111,9 +112,11 @@ public class Game implements Serializable {
     }
 
     public void securityLevelCheck(int questionDone) {
-        if (questionDone == 6) {
+        if (questionDone == 5) {
+            securedPrize = 500;
             System.out.println("Great!!!Your prize can not be lower than 500€ <--->");
         } else if (questionDone == 10) {
+            securedPrize = 15000;
             System.out.println("Great!!!Your prize can not be lower than 15.000€ <--->");
         }
     }
