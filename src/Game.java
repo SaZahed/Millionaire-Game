@@ -21,6 +21,17 @@ public class Game implements Serializable {
     Player savedPlayer = null; //needed if a previous player wants to continue his last game
     int securedPrize = 0;
 
+    /***
+     * Next, the questions are loaded from the questions file.
+     * The game loop starts at the number of questions the player has already answered. This allows the player to continue from their previous progress instead of starting from the beginning.
+     *  For every correctly answered question:
+     *   - The number of completed questions is increased.
+     *   - The current difficulty level is calculated.
+     *   - The player's prize money is updated.
+     *   - The security level is checked.
+     *   If the player answers incorrectly, the secured prize isndisplayed. The player can then decide whether to saventheir current game using serialization.
+     *  * If all 15 questions are answered correctly, the player wins the million and the game is saved automatically.
+     */
     public void run() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("***************************************************************");
@@ -31,7 +42,7 @@ public class Game implements Serializable {
         System.out.println("Hello," + name + "! " + "Let us start with the questions. If you want to cancel the game, just type in 0:");
         try {
             ObjectInputStream ois = new ObjectInputStream(new FileInputStream("playerData.ser"));// is responsible to convert byte stream to object
-            savedPlayer = (Player) ois.readObject();
+            savedPlayer = (Player) ois.readObject(); // geladenes Objekt soll ein Player sein
 
             if (savedPlayer.getName().equals(name)) {
                 System.out.println("Welcome back!");
@@ -49,6 +60,8 @@ public class Game implements Serializable {
 
         } catch (Exception e) {
             System.err.println("Something went wrong with the Input stream");
+            player = new Player(name,0,"O€"); //Nullpointer Exception vermeiden
+
         }
 
         qm.loadQuestions("questions.txt");
