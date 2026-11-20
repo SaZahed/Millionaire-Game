@@ -15,7 +15,7 @@ import java.util.Scanner;
  */
 public class Game implements Serializable {
     public List<Question> questionList = new ArrayList<>();
-    String[] prizes = {"50€", "100€", "200€", "300€", "400€", "5000", "1000", "2000", "4000", "8000", "16.000", "32.000", "64.000", "125.000", "500.000", "1.000.000"};
+    String[] prizes = {"50€", "100€", "200€", "300€", "500€", "1000", "2000", "4000", "8000", "15.000", "32.000", "64.000", "125.000", "500.000", "1.000.000"};
     QuestionManager qm = new QuestionManager();
     Player player;
     Player savedPlayer = null; //needed if a previous player wants to continue his last game
@@ -111,7 +111,7 @@ public class Game implements Serializable {
     }
 
     public void securityLevelCheck(int questionDone) {
-        if (questionDone == 5) {
+        if (questionDone == 6) {
             System.out.println("Great!!!Your prize can not be lower than 500€ <--->");
         } else if (questionDone == 10) {
             System.out.println("Great!!!Your prize can not be lower than 15.000€ <--->");
