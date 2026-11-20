@@ -32,7 +32,7 @@ public class Player implements Serializable {
 
     public String getmoney() {
         return money;
-    } //renaming the setter caused problems?
+    }
 
     public void calculateQuestionDone() {
         this.questionsDone = questionsDone + 1;
